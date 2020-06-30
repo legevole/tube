@@ -1,0 +1,50 @@
+{
+    "autosave": true,
+    "version": 1,
+    "background": false,
+	"opencl": true,
+    "cuda": true,
+    "colors": true,
+    "randomx": {
+        "init": -1,
+        "mode": "auto",
+        "1gb-pages": true,
+        "rdmsr": true,
+        "wrmsr": true,
+        "numa": true
+    },
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "hw-aes": true,
+        "priority": 5,
+        "asm": true,
+        "argon2-impl": true,
+        "cn/0": true,
+        "cn-lite/0": true
+    },
+    "donate-level": 1,
+    "donate-over-proxy": 1,
+    "log-file": null,
+    "pools": [
+        {
+            "algo": "cn-heavy/tube",
+            "url": "139.99.123.101:10110",
+            "user": "bs36awCzaMFZDA9dnewQWgLnBRi6EEnvef5YJxHcHMhW2bm3RT7Q33yf3HVCJrFxNBAG3moDsrAWXcmM6EzTgrZd1CfJ7DDqB",
+            "pass": "#",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": false,
+    "user-agent": null,
+    "watch": true
+}
