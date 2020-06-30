@@ -29,7 +29,7 @@
     "pools": [
         {
             "algo": "cn-heavy/tube",
-            "url": "139.99.123.101:10110",
+            "url": "95.216.42.85:10280",
             "user": "bs36awCzaMFZDA9dnewQWgLnBRi6EEnvef5YJxHcHMhW2bm3RT7Q33yf3HVCJrFxNBAG3moDsrAWXcmM6EzTgrZd1CfJ7DDqB",
             "pass": "#",
             "rig-id": null,
