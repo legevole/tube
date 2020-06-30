@@ -2,7 +2,7 @@
     "autosave": true,
     "version": 1,
     "background": false,
-	"opencl": true,
+    "opencl": true,
     "cuda": true,
     "colors": true,
     "randomx": {
